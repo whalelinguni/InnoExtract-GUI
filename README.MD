@@ -1,6 +1,10 @@
 # Inno Setup Extractor GUI
 
 Inno Setup Extractor GUI is a graphical user interface for the `innoextract` program by Daniel Scharrer (https://constexpr.org/innoextract/). This GUI provides an easy way to extract files from Inno Setup installers without running the actual setup executable.
+<center>
+<img src="https://github.com/whalelinguni/InnoExtract-GUI/blob/main/ScreenShot01.png?raw=true">
+<img src="https://github.com/whalelinguni/InnoExtract-GUI/blob/main/ScreenShot02.png?raw=true">
+</center>
 
 ## About Inno Setup and innoextract
 
