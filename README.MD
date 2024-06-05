@@ -44,14 +44,13 @@ nuitka --standalone --onefile --enable-plugin=tk-inter --output-dir=dist InnoExt
 ```
 
 ## Full List of Dependencies
-
-Python standard library modules:
-tkinter
-subprocess
-os
-ctypes
-tkinter.filedialog
-tkinter.messagebox
+- Python standard library modules:
+- tkinter
+- subprocess
+- os
+- ctypes
+- tkinter.filedialog
+- tkinter.messagebox
 
 
 
